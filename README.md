@@ -1,6 +1,8 @@
-- Yo, I am Infinite
+- Hi there, I am Infinite :D
 - 👀 I’m interested in AI
-- I’m currently programming  Python, JS, HTML, Lua
+- I’m currently programming  Python, JS, Lua
+- Certified Rochesten AI Engineer
+- I love csgo desync hvh
 - Discord : Infinite#1100
 - YouTube : https://www.youtube.com/channel/UCKQsTzFw2lAgB8DI69p4ARQ
 
